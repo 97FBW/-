@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SrvFiveChess", "SrvFiveChess\SrvFiveChess.vcxproj", "{53A4CEA7-D009-433D-8A6B-42DBC2A32278}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClientFiveChess", "ClientFiveChess\ClientFiveChess.vcxproj", "{ED4CF9B4-D41E-4227-AB08-B7AA85057644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A4CEA7-D009-433D-8A6B-42DBC2A32278}.Debug|x86.ActiveCfg = Debug|Win32
+		{53A4CEA7-D009-433D-8A6B-42DBC2A32278}.Debug|x86.Build.0 = Debug|Win32
+		{53A4CEA7-D009-433D-8A6B-42DBC2A32278}.Release|x86.ActiveCfg = Release|Win32
+		{53A4CEA7-D009-433D-8A6B-42DBC2A32278}.Release|x86.Build.0 = Release|Win32
+		{53A4CEA7-D009-433D-8A6B-42DBC2A32278}.Template|x86.ActiveCfg = Release|Win32
+		{53A4CEA7-D009-433D-8A6B-42DBC2A32278}.Template|x86.Build.0 = Release|Win32
+		{ED4CF9B4-D41E-4227-AB08-B7AA85057644}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED4CF9B4-D41E-4227-AB08-B7AA85057644}.Debug|x86.Build.0 = Debug|Win32
+		{ED4CF9B4-D41E-4227-AB08-B7AA85057644}.Release|x86.ActiveCfg = Release|Win32
+		{ED4CF9B4-D41E-4227-AB08-B7AA85057644}.Release|x86.Build.0 = Release|Win32
+		{ED4CF9B4-D41E-4227-AB08-B7AA85057644}.Template|x86.ActiveCfg = Template|Win32
+		{ED4CF9B4-D41E-4227-AB08-B7AA85057644}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
